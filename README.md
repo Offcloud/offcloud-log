@@ -1,2 +1,8 @@
-# offcloud-log
-The official Offcloud.com Changelog.
+# Offcloud.com Changelog
+On this page you will find all the product updates and fixes that we've added to Offcloud.com. We will strive our best to keep you informed of everything that happens behind the scenes.
+
+
+## Prior to 2022
+
+-
+- 
