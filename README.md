@@ -20,12 +20,12 @@ On this page, you will find all the product updates and fixes that we've added t
 - We delivered a solution to allow for uploading to a custom endpoint in Amazon S3.
  
 ## March 2022
-- Improved file name detection for remote uploads
-- Improved stability of FTP/SFTP uploads
+- We improved the way our system names your files uploaded to third party.
+- We increased the stability of uploading to third party using FTP/SFTP.
  
 ## February 2022
-- Improved downloader from Google Drive
+- We augmented the performance of uploading to Google Drive.
  
 ## January 2022
-- Fixed Mediafire support
-- Added displaying of remote option user name in the Table view
+- You can now download content from Mediafire in a more stable manner.
+- We added to our user interface more information about your remote uploads.
