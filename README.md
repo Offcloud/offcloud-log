@@ -4,20 +4,20 @@ On this page, you will find all the product updates and fixes that we've added t
 
 
 ## July 2022
-- Improved uploading to FTPS
-- Improved WebDAV uploading
-- Improved selection of Youtube video formats
+- We implemented uploading to third party using FTPS.
+- We improved stability of uploading to third party using WebDAV.
+- You can now download from YouTube various video formats.
  
 ## June 2022
-- Added support of folders downloading from Mega
-- Improved Dropbox authorization module to cope with updated authorization procedures
+- You can now download all content found in folders on Mega.nz.
+- We updated the authorization module that allows you to upload faster to Dropbox.
  
 ## May 2022
-- Set up faster proxies for better downloads from Youtube
+- You can now download from YouTube at more speed thanks to specific proxy servers.
  
 ## April 2022
-- Added support for Filestore, Solidfiles
-- Added support of custom endpoint in Amazon S3 uploader
+- You can now download content from Filestore and Solidfiles.
+- We delivered a solution to allow for uploading to a custom endpoint in Amazon S3.
  
 ## March 2022
 - Improved file name detection for remote uploads
