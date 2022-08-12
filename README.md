@@ -31,10 +31,10 @@ On this page, you will find all the product updates and fixes that we've added t
 - We added to our user interface more information about your remote uploads.
 
 ## Q4 2021
-- It is possible to remote upload links for hosts available in Cloud only mode
-- Fixed Filefactory plugin
-- Improved OneDrive uploader
-- Improved support for Turbobit links
+- You can now remote upload content from sources available only in cloud mode.
+- We resolved issues associated with downloads from Filefactory.
+- We improved the function to upload to Microsoft OneDrive.
+- You can now download content from Turbobit in a more stable manner.
 
 ## Q3 2021
 - It is possible to download links to .m3u8 playlists hosted on any website
