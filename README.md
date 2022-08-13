@@ -37,14 +37,14 @@ On this page, you will find all the product updates and fixes that we've added t
 - You can now download content from Turbobit in a more stable manner.
 
 ## Q3 2021
-- It is possible to download links to .m3u8 playlists hosted on any website
-- Implemented support of fileName parameter in API requests where it is possible to specify a certain file name for a request
-- Improved proxy servers for remote uploads
-- Improved security of the website to avoid excessive DDoS reqeusts and increase service speeds.
-- Improved PDF converter
-- Small UI fixes in the Table view
-- Improved OneDrive for business uploader
-- Added support for FTPS uploads
+- You can now download content from .m3u8 playlists, from any website or source.
+- We improved our API with fileName parameter that allows you to specify a certain file name for a request.
+- We upgraded our proxy servers to provide better speeds for remote uploads.
+- We improved the security of our web app to avoid DDoS attacks and increase the speed of our service.
+- You can now convert any web page into a better PDF output.
+- We resolved several issues on our user interface with the table vi ew.
+- We improved the stability of remote uploads to Microsoft OneDrive for Business.
+- You can now download content from FTPS sources.
 
 ## Q2 2021
 - We have updated our Chrome extension
