@@ -156,3 +156,47 @@ On this page, you will find all the product updates and fixes that we've added t
 - Improved support for Rapidgator
 - Added ability to download cloud items as a zip archive
 - Fixed issue with api/retry API call
+
+## Q4 2018
+- UX improvements in the Table view, added ability to create download requests from the Table view
+- Improved UI for browsers with AdBlock software
+- Fixed WebDAV uploader
+- Improved Google Drive uploader
+- Improved stability of torrents downloader
+- Added ability to specify your own premium account credentials for some hosts like 1fichier / Rapidgator / Uptobox to overcome daily limits
+- Fixed support for Zippyshare, Salefiles, Inclouddrive
+- Changed API endpoints
+- Added API endpoint to retry failed downloads
+- Added ability to resume interrupted FTP uploads
+
+
+## Q3 2018
+- Fixed issue with Google App authorization
+- Improved torrent cache
+- Fixed issues in FTP uploader
+- Added ability to specify a folder to upload for FTP remote option
+- Improved proxy server assignment for download requests
+- Fixed Uptobox
+- Added ability to remove items in the Table view
+- Added support for Filespace, Filer.net
+- Added ability to choose quality of Youtube videos
+- Fixed downloading of zipped content from Offcloud
+
+## Q2 2018
+- Improved Novafile
+- Added support of FPX payment method
+- Small improvements for Google Drive / Dropbox / Mega uploader
+- Improved detection of file names for direct links
+- Added link partnership program ( https://offcloud.com/fetch )
+- Added support of box.com links
+
+## Q1 2018
+- Improved processing of http(s) links by proxy server
+- Improved speed for unzipping of downloaded items
+- Fixed Soundcloud, Zippyshare
+- Fixed issue with file names in Dropbox uploader
+- Improved assignment of server for cloud downloading basing on user's geolocation data
+- Improved stability of Google Drive and FTP uploaders
+- Small UX improvements on frontend
+- Added API endpoint to retrieve history of download requests
+- Fixed issue with UnionPay and Webmoney payments
