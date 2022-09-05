@@ -47,18 +47,19 @@ On this page, you will find all the product updates and fixes that we've added t
 - You can now download content from FTPS sources.
 
 ## Q2 2021
-- We have updated our Chrome extension
-- We grant some extra free links if your requests failed with error
-- Improved uploading to Mega
-- Improved plugin for downloading from Google Drive
-- Fixed issue causing to duplicate records of user's usage
-- Fixed Ddl.to, Ubiqfile plugins
+- We have updated our Chrome extension for compliance with latest Chrome technology.
+- We now grant you some extra free links if your requests fail due to an error.
+- We improved stability of remote uploading to Mega.io.
+- We increased the performance of remote uploading to Google Drive.
+- We fixed an issue that caused duplicate records of a user's usage.
+- We restored the functionality of downloading from Ddl.to and Ubiqfile.
+
 
 ## Q1 2021
-- Improved torrents downloading, added support for more of private trackers
-- Improved handling of support tickets
-- Implemented support for uploading of folders to WebDAV
-- Improved SFTP and pCloud uploaders
+- We improved our BitTorrent engine by adding support for more private trackers.
+- We ameliorated our customer service with a better handling of support tickets.
+- We implemented support for remote uploading entire folders to WebDAV.
+- We increased the performance of remote uploading to SFTP and pCloud.
 
 ## Q4 2020
 - Improved downloading from 1fichier
