@@ -76,16 +76,16 @@ On this page, you will find all the product updates and fixes that we've added t
 - We added ability to retrieve information about usage quotas and supported sources with an API request.
 
 ## Q3 2020
-- Improved torrent cache
-- Improved sending of e-mails: our mails won't go to the Spam folder
-- Implemented pCloud remote uploads
-- Re-implemented support for Keep2share
-- Fixed issue with retry of failed requests by API call
-- Fixed bug with direct links downloader
-- Extended file size limit for uploading to OneDrive, improved OneDrive uploader
-- Improved stability of torrents downloading
-- Improved algorithm for automatic proxy server assignment
-- Added support of user premium accounts for Filefactory and Turbobit
+- We augmented the performance of our BitTorrent system's cache.
+- We improved the way of sending emails so that they won't end up in the spam folder.
+- You can now remote upload to pCloud.
+- We resolved issues with downloading from Keep2Share.
+- We fixed the feautre that lets you retry failed requests using an API call.
+- We increased the performance of the downloader for direct links.
+- We extneded the file size limit for remote uploading to Microsoft OneDrive.
+- We improved the stability of downloading BitTorrent sources.
+- We made the algorithm that selects the best proxy server more clever.
+- We added support to use your own premium accounts for Filefactory and Turbobit sources.
 
 ## Q2 2020
 - Added Ubiqfile support
