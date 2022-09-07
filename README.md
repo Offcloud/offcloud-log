@@ -42,7 +42,7 @@ On this page, you will find all the product updates and fixes that we've added t
 - We upgraded our proxy servers to provide better speeds for remote uploads.
 - We improved the security of our web app to avoid DDoS attacks and increase the speed of our service.
 - You can now convert any web page into a better PDF output.
-- We resolved several issues on our user interface with the table vi ew.
+- We resolved several issues on our user interface with the table view.
 - We improved the stability of remote uploads to Microsoft OneDrive for Business.
 - You can now download content from FTPS sources.
 
