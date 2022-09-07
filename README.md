@@ -62,18 +62,18 @@ On this page, you will find all the product updates and fixes that we've added t
 - We increased the performance of remote uploading to SFTP and pCloud.
 
 ## Q4 2020
-- Improved downloading from 1fichier
-- Improved Wasabi uploader
-- Added support for more private torrent trackers
-- Improved handling of links to NZB files
-- Added support of PaySafeCard payments
-- UX improvements for support tickets
-- Fixed pCloud uploader
-- Improved stability of remote uploads
-- Re-implemented Mega remote uploader for better speed and stability
-- Fixed downloading of videos from VK and Instagram
-- Improved Uptobox plugin
-- Added ability to retrieve information about usage quotas and available addons by API request
+- We increased performance of downloading from 1Fichier.
+- We improved stability for remoting uploading to Wasabi.
+- We added support for more private BitTorrent trackers.
+- We made the handling of links to NZB files more efficient.
+- We now accept payments from PaySafeCard thanks to a trusted reseller.
+- We implemented UX improvements for handling support tickets.
+- We resolved an issue with remote uploading to pCloud.
+- We improved stability of remote uploading in general.
+- We implemented a new way to remote upload to Mega.io to increase speeds and stability.
+- We fixed issues with downloading videos from VK and Instagram.
+- We ameliorated the way you can download from Uptobox.
+- We added ability to retrieve information about usage quotas and supported sources with an API request.
 
 ## Q3 2020
 - Improved torrent cache
