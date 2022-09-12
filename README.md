@@ -3,6 +3,12 @@ On this page, you will find all the product updates and fixes that we've added t
 
 
 
+## August 2022
+- We improved remote uploading to WebDAV with better compatiblity with NAS and store services.
+- We have improved several elements in our user experience.
+- We fixed an issue with downloading from Zippyshare.
+- We extended the performance of downloading from BitTorrent network.
+
 ## July 2022
 - We implemented uploading to third party using FTPS.
 - We improved stability of uploading to third party using WebDAV.
