@@ -94,34 +94,32 @@ On this page, you will find all the product updates and fixes that we've added t
 - We added support to use your own premium accounts for Filefactory and Turbobit sources.
 
 ## Q2 2020
-- Added Ubiqfile support
-- Implemented Usenet server: it is now possible to download from Usenet with Offcloud using your NZB client
-- Added ability to download folders from FTP
-- Fixed Mediafire plugin
-- Added support of ddl.to
-- Improved UX of the table view
-- Added list of supported sites to the mobile version of the website
-- Added support for more torrent private trackers
-- Fixed issue with uploading of Unicode file names to Dropbox
-- Added feature for quick remote uploading of cloud downloaded files
-- Fixed OneDrive for Business uploader
-- Improved Novafile support in jDownloader
-- Fixed direct downloading from servers not supporting HEAD requests
-- Fixed Rapidgator support
-- Implemented support for instant downloading of Novafile links with jDownloader
-- Frontend UX bugfixes
+- We added support to download from Ubiqfile.
+- We implemented a Usenet server so you can now download from Usenet with Offcloud using your NZB client.
+- We added the ability to download folders from FTP.
+- We resolved an issue with downloading from Mediafire.
+- We added support to download from DDL.to.
+- We added the list of supported sources to the mobile version of our website.
+- We added support for additional private trackers on BitTorrent.
+- We fixed an issue with Unicode file names being remote uploaded to Dropbox.
+- We added a feature that allows you to quickly remote upload files found in your Offcloud cloud space.
+- We fixed an issue with remote uploading to Microsoft OneDrive for Business.
+- We improved the support of jDownloader, especially with Novafile sources.
+- We resolved an issue with direct downloading from servers that lacks support of HEAD requests.
+- We fixed support to download from Rapidgator.
+- We made several improvements to our user experience.
 
 ## Q1 2020
-- Improved stability of unzip feature
-- Fixed issue with file names in FTP and SFTP uploader
-- Fixed Soundcloud plugin
-- Implemented fallback for downloading from Youtube with lower quality if higher causes errors
-- Improved torrents downloader
-- Improved support of Uptobox / 1fichier links with user's premium account
-- Fixed Amazon S3 and Wasabi uploaders
-- Fixed wdupload plugin
-- Redeveloped FTP uploader
-- Improved Usenet downloader
+- We improved the stability of the zip extraction feature.
+- We resolved an issue with file names in the FTP and SFTP remote uploader.
+- We fixed an issue with downloading from Soundcloud.
+- We implemented a fallback for downloading from YouTube if the chosen format is not working.
+- We improved the stability of our BitTorrent engine.
+- You can now download from Uptobox and 1fichier using your own premium account.
+- We resolved issues with remote uploading to Amazon S3 and Wasabi.
+- We implement support to download from WDUpload.
+- We redeveloped the ability to remote upload to FTP.
+- We improved the performance of our Usenet engine.
 
 ## Q4 2019
 - Improved processing of remote uploads for already cloud downloaded content
