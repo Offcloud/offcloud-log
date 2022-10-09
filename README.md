@@ -2,6 +2,11 @@
 On this page, you will find all the product updates and fixes that we've added to the Offcloud.com service, a cloud-based download manager & data synchronization endpoint. We will strive our best to keep you informed of everything that happens behind the scenes.
 
 
+## September 2022
+- Fixed Novafile and Ubiqfile support
+- Improved processing of remote requests for cached torrents
+- Reviewed payment methods
+- Improved security of WebDAV uploads
 
 ## August 2022
 - We improved remote uploading to WebDAV with better compatiblity with NAS and store services.
