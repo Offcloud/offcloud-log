@@ -2,11 +2,16 @@
 On this page, you will find all the product updates and fixes that we've added to the Offcloud.com service, a cloud-based download manager & data synchronization endpoint. We will strive our best to keep you informed of everything that happens behind the scenes.
 
 
+## October 2022
+- We began integration support for CashtoCode as a payment method.
+- We improved the stability of our PayPal and credit card payment processor.
+- We upgraded the infrastructure of half our proxy servers for increased speeds.
+
 ## September 2022
-- Fixed Novafile and Ubiqfile support
-- Improved processing of remote requests for cached torrents
-- Reviewed payment methods
-- Improved security of WebDAV uploads
+- We fixed support for Novafile and Ubiqfile sources.
+- We improved the processing of remote requests for cached torrents.
+- We reviewed the integrity of our payment methods for compliance.
+- We improved the security of WebDAV remote uploads.
 
 ## August 2022
 - We improved remote uploading to WebDAV with better compatiblity with NAS and store services.
