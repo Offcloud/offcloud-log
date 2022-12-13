@@ -2,6 +2,12 @@
 On this page, you will find all the product updates and fixes that we've added to the Offcloud.com service, a cloud-based download manager & data synchronization endpoint. We will strive our best to keep you informed of everything that happens behind the scenes.
 
 
+## November 2022
+- We have fully implemented CashtoCode as a payment method.
+- You can now download files from pCloud in addition to uploading to it.
+- We resolved issues with fetching files from 1fichier.
+- We have fixed performance with downloading from DDL.
+
 ## October 2022
 - We began integration support for CashtoCode as a payment method.
 - We improved the stability of our PayPal and credit card payment processor.
