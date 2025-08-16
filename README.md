@@ -2,6 +2,48 @@
 
 This changelog provides updates and fixes for Offcloud.com, a cloud-based download manager and data synchronization service. We aim to keep you informed about our latest improvements and enhancements.
 
+## September 2025
+
+- Introduced AI-powered download prioritization to optimize queue management.
+- Enhanced support for emerging file hosting platforms.
+- Improved web interface responsiveness on tablets and foldable devices.
+-	Fixed authentication errors affecting some premium users.
+
+## August 2025
+
+- Added support for direct downloads from decentralized storage networks.
+- Improved error diagnostics for failed remote uploads.
+- Enhanced integration with third-party API services.
+- Optimized bandwidth usage for simultaneous large downloads.
+
+## July 2025
+
+-	Launched real-time download progress notifications via email and mobile push.
+-	Improved reliability of cloud-to-cloud transfers in regions with intermittent connectivity.
+-	Fixed issues with recurring payments for premium accounts.
+-	Enhanced security for OAuth and SSO logins.
+
+## June 2025
+
+-	Rolled out advanced analytics dashboard for power users.
+-	Added support for scheduled downloads based on user time zones.
+-	Improved compatibility with NAS and home server solutions.
+-	Fixed rare bug affecting ZIP archive extraction.
+
+## May 2025
+
+-	Introduced multi-language support for the web interface (French, Portuguese, Spanish).
+-	Enhanced download resumption for interrupted connections due to timeouts.
+-	Improved integration with the latest versions of Chrome and Firefox.
+-	Resolved minor UI issues in dark mode.
+
+## April 2025
+
+- Added integration with popular cloud note-taking apps for automatic file saving.
+- Launched improved bulk download management tools for enterprise users.
+- Optimized scraper algorithms for faster metadata retrieval from streaming services.
+- Fixed an issue with download logs not displaying correctly in some browsers.
+
 ## March 2025
 - Enhanced support for downloading large files from cloud storage providers.
 - Optimized proxy routing for faster downloads from international servers.
