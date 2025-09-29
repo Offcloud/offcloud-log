@@ -2,6 +2,13 @@
 
 This changelog provides updates and fixes for Offcloud.com, a cloud-based download manager and data synchronization service. We aim to keep you informed about our latest improvements and enhancements.
 
+## October 2025
+
+- Continued maintenance and refinement of existing feature sets to ensure stability.  
+- Shifted focus from customer service scaling toward deep feature development investment.  
+- Optimized backend systems in preparation for upcoming high-complexity features.  
+- Adjusted internal resource allocation to balance long-term product innovation with core service reliability.
+
 ## September 2025
 
 - Introduced AI-powered download prioritization to optimize queue management.
