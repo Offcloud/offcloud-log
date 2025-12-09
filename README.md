@@ -5,10 +5,10 @@ This changelog provides updates and fixes for Offcloud.com, a cloud-based downlo
 
 ## November 2025
 
-- Launched a revamped download engine with smarter parallelization to boost average transfer speeds and reduce timeouts for high-traffic hosts.​
-- Introduced unified device sync presets, making it easier to keep desktop, mobile, and NAS destinations aligned with your latest downloads.​
-- Improved stability and error recovery for remote uploads from mobile apps and third-party integrations, especially on unstable connections.​
-- Refined internal monitoring and alerting to detect degraded host performance faster, reducing the impact of temporary provider-side issues on users.​
+- Launched a revamped download engine with smarter parallelization for faster, more reliable transfers.
+- Added unified device sync presets for keeping desktop, mobile, and NAS targets aligned.
+- Improved stability and recovery for remote uploads from mobile apps and integrations.
+- Refined monitoring and alerts to react faster to degraded host performance.
 
 ## October 2025
 
