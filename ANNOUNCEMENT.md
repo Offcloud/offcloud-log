@@ -1,6 +1,6 @@
 # A Heartfelt Message to Our Offcloud Family
 
-Tuesday 9 Decemeber 2025, 20:13 PM GMT
+Tuesday 9 December 2025, 20:13 PM GMT
 
 Dear Friends,
 
