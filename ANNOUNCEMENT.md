@@ -2,7 +2,7 @@
 
 Tuesday 9 December 2025, 20:13 PM GMT
 
-Dear Friends,
+Dear friends,
 
 ## We Need to Talk...
 
