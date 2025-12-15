@@ -10,7 +10,7 @@ We've been letting you down, and it's been eating at us. The bugs, the slow supp
 
 **We're genuinely sorry.** Not in a corporate way, but in a very human, very real way.
 
-## Why we've been so auiet
+## Why we've been so quiet
 
 Here's the truth: we're a small team. Really small. While the big companies have hundreds of developers, we're just a handful of passionate people who believe in what we're doing. And for months now, we've been pouring our hearts and souls into something we believe will change everything.
 
