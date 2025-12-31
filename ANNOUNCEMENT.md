@@ -50,7 +50,7 @@ We're not just fixing technical problems. We're committing to being better in ev
 
 The next few weeks will show you what we've been building. We genuinely believe you'll feel it was worth the wait.
 
-## From Our Heart to Yours
+## From our heart to yours
 
 Whether you take advantage of the discount now or wait to see the improvements first, thank you. Thank you for every frustrated email you sent instead of just leaving. Thank you for every time you gave us another chance. Thank you for being part of this journey.
 
