@@ -18,7 +18,7 @@ We could have kept patching things up, applying band-aids to problems. But we di
 
 ## Something very special is coming
 
-In the next two weeks, we're releasing what we've been calling our "new engine" – though that doesn't really capture how special this upgrade truly is. 
+In the first three weeks of January 2026, we're releasing what we've been calling our "new engine" – though that doesn't really capture how special this upgrade truly is. 
 
 We've completely reimagined BitTorrent handling. We've invested everything we had into CDN infrastructure. We've written proprietary code that we're genuinely proud of. This isn't just an update; it's a rebirth of Offcloud.
 
